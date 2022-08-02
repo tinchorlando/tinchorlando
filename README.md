@@ -10,10 +10,10 @@ Si bien mi recorrido aún es corto, estoy ansioso por seguir aprendiendo, crecie
 
 <h3>Estos son algunos de los proyectos en los que trabajé hasta hoy:</h3>
 
-<h3><a href="">Videogames App </a> </h3>
+<h3><a href="https://github.com/tinchorlando/PI-Videogames-main">Videogames App </a> </h3>
 
 <h3><a href="">E-Commerce </a></h3>
-Deploy: <a href="">Link</a>
+Deploy: <a href="pro-ropa-store.vercel.app">Link</a>
 
 <!--
 **tinchorlando/tinchorlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
