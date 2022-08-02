@@ -30,6 +30,6 @@ Si bien mi recorrido aún es corto, estoy ansioso por seguir aprendiendo, crecie
   mail: martin._orlando@hotmail.com.ar
 </p>
 <p>
-  linkedIn: <a href="https://linkedin.com/in/martin-orlando-FSDev">Martin Orlando</a>
+  linkedIn: <a href="https://linkedin.com/in/martin-orlando-developer">Martin Orlando</a>
 </p>
 
