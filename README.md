@@ -13,6 +13,9 @@ Si bien mi recorrido aún es corto, estoy ansioso por seguir aprendiendo, crecie
 <h3><a href="https://github.com/tinchorlando/PI-Videogames-main">Videogames App </a> </h3>
 
 <h3><a href="https://github.com/tinchorlando/E-commerce">E-Commerce </a></h3>
+<p align="center">
+  <a><img height="150" width="150" src="https://github.com/tinchorlando/tinchorlando/blob/main/Assets/E-Commerce/Home.jpeg"/></a><a><img height="150" width="150" src="https://github.com/tinchorlando/tinchorlando/blob/main/Assets/E-Commerce/Add.jpeg"/></a> <a><img height="150" width="150" src="https://github.com/tinchorlando/tinchorlando/blob/main/Assets/E-Commerce/Cart.jpeg"/></a> <a><img height="150" width="150" src="https://github.com/tinchorlando/tinchorlando/blob/main/Assets/E-Commerce/Checkout.jpeg"/></a> <a><img height="150" width="150" src="https://github.com/tinchorlando/tinchorlando/blob/main/Assets/E-Commerce/Profile.jpeg"/></a> <a><img height="150" width="150" src="https://github.com/tinchorlando/tinchorlando/blob/main/Assets/E-Commerce/Admin.jpeg"/></a>
+</p>
 Deploy: <a href="https://pro-ropa-store.vercel.app">Link</a>
 
 
