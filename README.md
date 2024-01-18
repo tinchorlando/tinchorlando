@@ -11,7 +11,6 @@ Si bien mi recorrido aún es corto, estoy ansioso por seguir aprendiendo, crecie
 <h3>Estos son algunos de los proyectos en los que trabajé hasta hoy:</h3>
 
 <h3><a href="https://github.com/tinchorlando/PI-Videogames-main">Videogames App </a> </h3>
-<a href="https://tinchorlando-games.vercel.app" target="_blank">Deploy</a>
 <p align="center">
   <a><img height="150" width="250" src="https://github.com/tinchorlando/PI-Videogames-main/blob/main/Assets/Home.jpeg"/></a> <a><img height="150" width="250" src="https://github.com/tinchorlando/PI-Videogames-main/blob/main/Assets/Detail%201.jpeg"/></a> <a><img height="150" width="250" src="https://github.com/tinchorlando/tinchorlando/blob/main/Assets/Videogame/Detail%202.jpeg"/></a> <a><img height="150" width="250" src="https://github.com/tinchorlando/PI-Videogames-main/blob/main/Assets/Search.jpeg"/></a> <a><img height="150" width="250" src="https://github.com/tinchorlando/PI-Videogames-main/blob/main/Assets/Filter.jpeg"/></a> <a><img height="150" width="250" src="https://github.com/tinchorlando/PI-Videogames-main/blob/main/Assets/Create.jpeg"/></a>
 </p>
